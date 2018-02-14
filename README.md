@@ -8,6 +8,6 @@ after clone -> npm install.
 Configure database in config/connection
 
 # Testing url
- url : http://localhost:3000/api/users
-
+show all user url : http://localhost:3000/api/users
+show user by id http://localhost:3000/api/users/1
 
